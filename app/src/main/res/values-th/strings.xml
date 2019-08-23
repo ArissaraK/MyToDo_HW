@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Email">อีเมล</string>
+    <string name="Password">รหัสผ่าน</string>
+    <string name="LoginToYourAccount">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="LOGIN">ลงชื่อเข้าใช้</string>
+    <string name="DonthaveanaccountRegister">ยังไม่มีบัญชีผู้ใช้?สมัครเลย</string>
+</resources>
